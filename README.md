@@ -1,5 +1,6 @@
 # Greedy-DiM
 PyTorch implementation for the paper "Greedy-DiM: Greedy Algorithms for Unreasonably Effective Face Morphs"
+Zander W. Blasingame and Chen Liu
 
 The PyTorch implementation can be found at:
 https://github.com/zblasingame/Greedy-DiM
